@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+form {
+    padding: 10px;
+}
+.button{
+    margin: 10px;
+    float: left;
+    padding:3px 5px ;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.button-primary{
+    background-color: blue;
+}
+.button-secondary{
+    background-color: darkgray;
+}
+.button-danger{
+    background-color:coral;
+}
+.alert{
+    color: red;
+}
